@@ -1,0 +1,1 @@
+Don¡¯t use .passive and .prevent together, because .prevent will be ignored and your browser will probably show you a warning. Remember, .passive communicates to the browser that you don¡¯t want to prevent the event¡¯s default behavior.

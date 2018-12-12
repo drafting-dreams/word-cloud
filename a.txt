@@ -1,0 +1,6 @@
+May 4, 2014 - To send data back to node just do the following in the python script: .... The child process module allows us to run Python script in a Node.js ...
+Call python function from node.js	1 May 2018
+node.js - Calling python script with node js express server ...	8 Jun 2017
+javascript - Call python script using node.js child_process ...	11 Dec 2015
+javascript - How to call python script from NodeJs	7 Jun 2015
+More results from stackoverflow.com

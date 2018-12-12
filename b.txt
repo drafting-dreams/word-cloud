@@ -1,0 +1,9 @@
+javascript - File input on change in vue.js	2 answers	19 Jul 2017
+laravel 5.3 - How can I pass input file with vue.js 2?	5 answers	25 May 2017
+javascript - Upload and view an input file using VueJS	2 answers	25 Oct 2016
+How to get full path of selected file on change of ...	9 answers	4 Mar 2013
+More results from stackoverflow.com
+how to access the value of a file input in Vue? - Laracasts
+https://laracasts.com/discuss/channels/.../how-to-access-the-value-of-a-file-input-in-vu...
+it works only for the title, but as soon I fill it the submit button gets activated, even if the image value is empty. <input type="file" name="image" accept="image/*"> ...
+Vuejs2 file input - Vue Forum
